@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Anh%20Duy!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Senior%20Research%20Engineer%20%7C%20Deep%20Learning%20%7C%20Geospatial%20AI&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Anh%20Duy!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Passionate%20about%20AI%20Research%20%7C%20CV%20%7C%20NLP&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Senior+Research+Engineer+%40+FPT+University;Building+Deep+Learning+Architectures;Scaling+MLOps+Pipelines;Analyzing+Geospatial+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Student+%40+FPT+University;Passionate+about+AI+Research;Computer+Vision+%26+NLP;Machine+Learning+(Imputation);Writing+Clean+%26+Vibe+Code;Optimizing+Workflows" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,65 +15,51 @@
 
 ---
 
-### 🔬 Deep Tech Stack & Expertise
+### 🔬 Research Interests & Tech Stack
 
-#### 🧠 Deep Learning & Computer Vision
+#### 🧠 Computer Vision & NLP
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
-<p><em>Architectures:</em> CNNs (ResNet, EfficientNet), Vision Transformers (ViT, Swin), Semantic Segmentation (HRNet, UNet, Mask R-CNN).</p>
+<p><em>Focus:</em> Image Classification, Object Detection, Transformers, Natural Language Understanding.</p>
 
-#### 🌍 Geospatial Data Analysis
+#### 📊 Machine Learning & Data Processing
 <p>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="GEE" />
-  <img src="https://img.shields.io/badge/GDAL-222222?style=flat-square&logo=gdal&logoColor=white" alt="GDAL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
-<p><em>Techniques:</em> Raster/Vector Processing, Satellite Image Time-Series Analysis, Spatial Modeling, Multi-spectral processing.</p>
+<p><em>Focus:</em> Missing Data Imputation, Feature Engineering, Statistical Analysis, Data Preprocessing.</p>
 
-#### ⚙️ MLOps & Infrastructure
+#### ⚙️ Workflow & "Vibe Code"
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
-<p><em>Practices:</em> Model Registry, CI/CD for ML, Distributed Training, Pipeline Automation.</p>
+<p><em>Focus:</em> Clean Code Architecture, Reproducible Workflows, MLOps Basics, Automation.</p>
 
 ---
 
-### 🚀 Project Highlights
+### 🚀 Ongoing Studies & Projects
 
-#### 🛰️ High-Resolution Satellite Image Segmentation
-> **Key Features:** Built an end-to-end pipeline for urban planning using satellite imagery. Implemented **HRNet (High-Resolution Network)** to maintain precise spatial representations throughout the feature extraction process, outperforming standard UNet models by 12% in mIoU. Orchestrated the training loop with distributed data parallel processing.
+#### 👁️ Computer Vision Experiments
+> **Focus:** Implementing and fine-tuning standard Deep Learning architectures for visual recognition tasks. Exploring how different neural network designs interpret spatial information.
 > 
-> **Tech Stack:** `PyTorch` • `GDAL` • `Rasterio` • `Docker`
+> **Keywords:** `PyTorch` • `CNNs` • `Transfer Learning`
 
-#### 🩺 Automated Micro-Anomaly Detection via ViT
-> **Key Features:** Developed a diagnostic aid tool analyzing complex scans. Leveraged a pre-trained **Vision Transformer (ViT-Base)** with custom attention heads to identify micro-anomalies. Integrated **MLflow** for experiment tracking, model versioning, and deploying the inference engine via FastAPI.
+#### 📝 NLP Application Development
+> **Focus:** Utilizing Large Language Models and open-source models from HuggingFace to build text processing pipelines, chatbots, and sentiment analysis tools.
 > 
-> **Tech Stack:** `HuggingFace Transformers` • `PyTorch` • `MLflow` • `FastAPI`
+> **Keywords:** `Transformers` • `HuggingFace` • `LLMs`
 
-#### 🌍 Scalable Geospatial Processing Pipeline
-> **Key Features:** Designed a scalable data ingestion and preprocessing system for multi-temporal satellite data. Orchestrated complex DAGs using **Apache Airflow** and containerized processing nodes with **Docker**, reducing data preparation time by 60% and enabling robust error handling and retries.
+#### 🧩 Advanced ML Data Imputation
+> **Focus:** Researching and applying machine learning techniques to solve missing data problems in complex datasets. Building robust pipelines that can handle imperfect real-world data efficiently.
 > 
-> **Tech Stack:** `Apache Airflow` • `PostGIS` • `Docker` • `Python`
-
----
-
-### 📚 Research & Publications
-
-- **[Attention Mechanisms in High-Resolution Remote Sensing](#)**
-  - *Published in: IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
-  - *Summary:* Proposed a novel spatial-channel attention module integrated into ResNet-101 for enhanced feature extraction in complex urban environments, significantly improving boundary delineation.
-- **[Scalable MLOps Architectures for Deep Learning](#)**
-  - *Presented at: CVPR Workshop*
-  - *Summary:* Benchmarked training optimization using distributed PyTorch across Kubernetes clusters, demonstrating a 40% reduction in training time for large vision models.
+> **Keywords:** `Imputation Algorithms` • `scikit-learn` • `Data Engineering`
 
 ---
 
