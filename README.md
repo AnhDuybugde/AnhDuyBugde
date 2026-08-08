@@ -79,7 +79,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/AnhDuybugde/">
-    <img src="https://leetcode-stats-api.herokuapp.com/AnhDuybugde" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/AnhDuybugde" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -88,12 +88,12 @@
 ### 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnhDuybugde&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnhDuybugde&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AnhDuybugde&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AnhDuybugde&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhDuybugde&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnhDuybugde&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" width="50%" />
 </div>
 
 ---
