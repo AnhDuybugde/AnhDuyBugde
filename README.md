@@ -75,6 +75,16 @@
 
 ---
 
+### 🏆 LeetCode Stats & Problem Solving
+
+<div align="center">
+  <a href="https://leetcode.com/u/AnhDuybugde/">
+    <img src="https://leetcode-stats-api.herokuapp.com/AnhDuybugde" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Metrics & Analytics
 
 <div align="center">
